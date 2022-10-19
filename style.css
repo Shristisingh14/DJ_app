@@ -1,0 +1,53 @@
+body{
+    margin:8px;
+    background-size: cover;
+}
+
+.note
+{
+    font-size: 15px;
+    color:black;
+    width: 90%;
+}
+
+.div_speed
+{
+    float:left;
+
+}
+
+.div_speed_image
+{
+width:200px;
+border-radius:100px;
+
+}
+#speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float:right;
+
+}
+
+.div_volume_image
+{
+width:200px;
+border-radius:100px;
+
+}
+#volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.play_button{
+    border-radius: 8px;
+    font-size: 30px;
+    width: 100px;
+}
